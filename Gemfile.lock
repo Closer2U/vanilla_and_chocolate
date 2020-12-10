@@ -1,6 +1,4 @@
 GEM
-  source `https://rubygems.org`
-  gem `github-pages`
   remote: https://rubygems.org/
   specs:
     addressable (2.7.0)
@@ -71,7 +69,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-feed
   jekyll-paginate
-  jekyll-seo-tag
+  jekyll-admin
   jekyll-sitemap
 
 RUBY VERSION
