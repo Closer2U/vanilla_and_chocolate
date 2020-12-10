@@ -1,4 +1,6 @@
 GEM
+  source `https://rubygems.org`
+  gem `github-pages`
   remote: https://rubygems.org/
   specs:
     addressable (2.7.0)
