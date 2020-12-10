@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        pre-build: gem install bundler:1.16.4
+        pre_build_commands: bundle update --bundler
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
