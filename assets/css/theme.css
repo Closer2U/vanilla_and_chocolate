@@ -1,5 +1,6 @@
 body {
 	padding-top:70px;
+	      background-color:#ef8195;
 }
 a:hover {
 	text-decoration: none;
@@ -207,8 +208,7 @@ article .card-body {
     font-weight: 700;
 }
 .wrapcat {
-    /* background-color: rgba(0,0,0,0.2); */
-    background-color: #51efba;
+    background-color: rgba(0,0,0,0.2);
     display: none;
     transition: all 0.2s;
     position: absolute;
