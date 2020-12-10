@@ -89,6 +89,11 @@ footer.footer {
 }
 .card {
 	border: 0;
+	
+	              border-radius: 50px;
+                  background: #f1f1f1;
+                  box-shadow:  -29px -29px 58px #cdcdcd, 
+                                29px 29px 58px #ffffff;
     transition:ease .1s;
 }
 .card-pin:hover .overlay {
