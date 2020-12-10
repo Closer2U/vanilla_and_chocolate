@@ -8,6 +8,7 @@ baseurl: '/vanilla_and_chocolate'
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
+timezone: Europe/Berlin
 
 include: ["_pages"]
 permalink: /:title/
