@@ -2,10 +2,10 @@
 name: 'Pintereso'
 description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/Avatar.png'
+favicon: 'assets/images/Avatar.PNG'
 url: 'https://Closer2U.github.io'
 baseurl: '/vanilla_and_chocolate'
-avatar: 'assets/images/Avatar.png'
+avatar: 'assets/images/Avatar.PNG'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 timezone: Europe/Berlin
