@@ -5,6 +5,8 @@ on:
     branches:
       # deploy on updates on main
       - main
+  schedule:
+      -cron: "0 6 * * *"
   
 
 jobs:
