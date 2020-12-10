@@ -2,7 +2,7 @@
 name: 'Pintereso'
 description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
 logo: 'assets/images/mylogo.png'
-favicon: 'assets/images/mylogo.png'
+favicon: 'assets/images/favicon-logo.png'
 url: 'https://Closer2U.github.io'
 baseurl: '/vanilla_and_chocolate'
 avatar: 'assets/images/Avatar.PNG'
