@@ -19,7 +19,7 @@ aber eins muss ich sagen:
 😜
 </details>
 
-![surprised](https://github.com/Closer2U/vanilla_and_chocolate/master/assets/images/PinappleSurprised.svg?raw=true)
+![surprised](../assets/images/PinappleSurprised.svg)
 
 ***
 
