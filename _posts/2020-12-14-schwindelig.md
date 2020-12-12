@@ -16,8 +16,10 @@ aber eins muss ich sagen:
 
 <details>
 <summary><strong>Iller mal?</strong></summary>
-<img src"https://raw.githubusercontent.com/Closer2U/vanilla_and_chocolate/master/assets/images/PinappleSurprised.svg" align="center" width="200" height="200">
+😜
 </details>
+
+<img src"https://raw.githubusercontent.com/Closer2U/vanilla_and_chocolate/master/assets/images/PinappleSurprised.svg" align="center" width="200" height="200">
 
 ***
 
