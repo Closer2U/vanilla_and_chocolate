@@ -2,7 +2,8 @@
 title:  "Uiii, mir wird schwindelig!"
 metadate: "hide"
 categories: [ Komplimente ]
-image: "/assets/images/2020-12-14-Bewegung.svg"
+image: "/assets/images/2020-12-14-Bewegung2.svg"
+visit: "https://closer2u.github.io/vanilla_and_chocolate/categories.html#motivation"
 ---
 
 aber eins muss ich sagen:
