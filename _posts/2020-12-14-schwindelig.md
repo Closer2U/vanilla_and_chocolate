@@ -16,7 +16,7 @@ aber eins muss ich sagen:
 
 <details>
 <summary><strong>Iller mal?</strong></summary>
-![Surprised me](https://github.com/Closer2U/vanilla_and_chocolate/_assets/images/PinappleSurprised.svg)
+<img src"https://raw.githubusercontent.com/Closer2U/vanilla_and_chocolate/master/assets/images/PinappleSurprised.svg" align="center" width="200" height="200">
 </details>
 
 ***
