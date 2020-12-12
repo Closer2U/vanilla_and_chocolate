@@ -16,10 +16,11 @@ aber eins muss ich sagen:
 
 <details>
 <summary><strong>Iller mal?</strong></summary>
-> 😜
+ 😜
 
 ![surprised](../assets/images/PinappleSurprised.svg)
 </details>
+
 ***
 
 [hier ist das Original](https://closer2u.github.io/vanilla_and_chocolate/categories.html#motivation)
