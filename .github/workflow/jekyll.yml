@@ -1,4 +1,4 @@
-name: Jekyll Deploy
+name: Jekyll scheduler
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       # deploy on updates on main
       - main
   schedule:
-      -cron: "0 6 * * *"
+      -cron: "0 0 * * *"
   
 
 jobs:
@@ -24,7 +24,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-build-
             ${{ runner.os }}-
-
       - name: Build & Deploy to GitHub Pages
         uses: DavidS/jekyll-deploy@main
         env:
