@@ -29,3 +29,5 @@ jobs:
         env:
           JEKYLL_ENV: production
           GH_PAGES_TOKEN: ${{ secrets.JEKYLL_PAT }}
+        with:
+          allow_empty_commit: true
