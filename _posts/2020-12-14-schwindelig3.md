@@ -7,11 +7,11 @@ visit: "https://closer2u.github.io/vanilla_and_chocolate/categories.html#motivat
 ---
 
 aber eins muss ich sagen:
-- [x] du **bist** ziemlich cool!
-...na gut, mir fällt noch mehr ein...
-- [x] und sehr gutherzig
-- [x] und witzig
-- [x] und viiiiieeeel zu groß. Da muss ich immer auf die Zehenspitzen... 👠👠
+- .[x].  du **bist** ziemlich cool!
+...........na gut, mir fällt noch mehr ein...
+- [x]  und sehr gutherzig
+- [x]  und witzig
+- [x]  und viiiiieeeel zu groß. Da muss ich immer auf die Zehenspitzen... 👠👠
 
 ***
 
@@ -20,7 +20,7 @@ aber eins muss ich sagen:
 
  😜
 
-![surprised](/assets/images/PinappleSurprised.svg)
+![surprised](https://raw.githubusercontent.com/Closer2U/vanilla_and_chocolate/master/assets/images/PinappleSurprised.svg?raw=true)
 
 </details>
 
