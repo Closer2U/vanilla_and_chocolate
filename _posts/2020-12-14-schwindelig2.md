@@ -19,7 +19,7 @@ aber eins muss ich sagen:
 <summary><strong>Iller mal?</strong></summary>
  😜
 
-![surprised](../assets/images/PinappleSurprised.svg)
+![surprised](https://raw.githubusercontent.com/Closer2U/vanilla_and_chocolate/master/assets/images/PinappleSurprised.svg?raw=true)
 </details>
 
 ***
