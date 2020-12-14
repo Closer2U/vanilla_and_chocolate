@@ -17,9 +17,11 @@ aber eins muss ich sagen:
 
 <details>
 <summary><strong>Iller mal?</strong></summary>
+
  😜
 
 ![surprised](https://raw.githubusercontent.com/Closer2U/vanilla_and_chocolate/master/assets/images/PinappleSurprised.svg?raw=true)
+
 </details>
 
 ***
