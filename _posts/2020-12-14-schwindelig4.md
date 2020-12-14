@@ -7,11 +7,11 @@ visit: "https://closer2u.github.io/vanilla_and_chocolate/categories.html#motivat
 ---
 
 aber eins muss ich sagen:
-[x]  du **bist** ziemlich cool!
+- [x]  du **bist** ziemlich cool!
 ...........na gut, mir fällt noch mehr ein... 
-[x]  und sehr gutherzig
-[x]  und witzig 
-[x]  und viiiiieeeel zu groß. Da muss ich immer auf die Zehenspitzen... 👠👠
+- [x]  und sehr gutherzig
+- [x]  und witzig 
+- [x]  und viiiiieeeel zu groß. Da muss ich immer auf die Zehenspitzen... 👠👠
 
 ***
 
@@ -19,7 +19,8 @@ aber eins muss ich sagen:
 <summary><strong>Iller mal?</strong></summary>
 
  😜
-<img src="https://gist.githubusercontent.com/moul/9b211744fff71cdc6d18/raw/c9eeeb70501cd69218545c8e8553d92c07734f47/millipede-animate.svg?raw=true" alt="centipede" align="center">
+
+<img src="https://gist.githubusercontent.com/moul/9b211744fff71cdc6d18/raw/c9eeeb70501cd69218545c8e8553d92c07734f47/millipede-animate.svg?raw=true" alt="centipede" align="right">
 
 </details>
 
