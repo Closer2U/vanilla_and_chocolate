@@ -22,6 +22,8 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
     - name: Build the site in the jekyll/builder container
+      env:
+          github-pages: ${{ secrets.JEKYLL_PAT }}
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
