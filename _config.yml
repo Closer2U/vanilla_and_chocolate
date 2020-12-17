@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon-logo.png'
 url: 'https://Closer2U.github.io'
 baseurl: '/vanilla_and_chocolate'
 avatar: 'assets/images/Avatar.PNG'
-email: 'wowthemesnet@gmail.com'
+email: 'closer2u@firemail.de'
 timezone: Europe/Berlin
 
 include: ["_pages"]
@@ -19,7 +19,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-admin
-  - jekyll-seo-tag
  
 # Defaults
 defaults:
