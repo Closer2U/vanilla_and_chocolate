@@ -3956,8 +3956,7 @@ body {
 ]]></style>
 
 
-<text style="color:#2B0C3B; text-shadow: 4px 3px 5px rgba(123, 34, 168, 1),3px 2px 16px rgba(16, 79, 97, 1); font-family: 'reeyregular'; position: absolute; font-size: 3vw; 
-margin-left: 5vw; margin-top:25vh;">🎊🎊🎊 Es Lebe K O N F E T T I  ! 🎊🎊🎊</text>
+<text style="font-family: 'reeyregular'; font-weight: normal; color:#2B0C3B; text-shadow: 4px 3px 5px rgba(123, 34, 168, 1),3px 2px 16px rgba(16, 79, 97, 1);  position: absolute; font-size: 3vw; margin-left: 5vw; margin-top:25vh;">🎊🎊🎊 Es Lebe K O N F E T T I  ! 🎊🎊🎊</text>
 
 
 <div class="wrapper">
