@@ -69,7 +69,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll-feed
   jekyll-paginate
-  jekyll-admin
   jekyll-sitemap
 
 RUBY VERSION
