@@ -1,3 +1,4 @@
 Trigger manuell\
 New trigger\
-Next trigger
+Next trigger\
+Another trigger
