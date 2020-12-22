@@ -3,4 +3,5 @@ New trigger\
 Next trigger\
 Another trigger\
 Now\
-Newwwest
+Newwwest\
+New
