@@ -1,25 +1,19 @@
 --- 
-title:  ""
+title:  "Disco Fever"
 metadate: "hide"
-categories: [ Motivation ]
-image: "assets/images/ocean.jpg"
-visit: https://closer2u.github.io/vanilla_and_chocolate/categories.html#motivation
+categories: [ Misc ]
+image: "assets/images/2020-12-22-bannerLongDots.svg"
+visit: https://closer2u.github.io/vanilla_and_chocolate/categories.html#misc
 ---
 
-<p align="center"><sup> Stile Wasser sind tief ... </sup></p>
-  <details><summary> <sub> ... und ꁍꏹꀍꏹꀤꂵꋊꀤꌚꃴꁏ꒒꒒ ...  </sub></summary>
-  
- - manchmal sind die Wellen des Ozeans kaum zu brechen, 
-   - andere Male liegt das Wasser aber auch ganz flach und unschuldig an der Oberfläche.
-   
- Trotz allem steckt in ihm immer eine gewaltige Kraft, die nicht zu bändigen ist... -
+Fall nicht gleich aus dem Bett, wenn du geblendet wirst von den strahlenden Kugeln unseres ... Weihnachtsbäumchens! 🎄🎄🎄 \
 
-  
-  
-  </details>
- <p align="center"> ... so, wie du. </p>
-  
+Bald ist es so weit und es ist Weihnachten.\
+Mal wieder. Kommt mir nicht vor, als sei schon wieder ein Jahr vergangen.\
 
+<details><summary> Psssssst! </summary>
+ <p align="center">🧸 </p>
+</details>
 ***
 
 [Gibt's was Neues?](https://github.com/Closer2U)
