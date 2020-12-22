@@ -5,6 +5,7 @@ categories: [ Misc ]
 image: "assets/images/2020-12-22-bannerLongDots.svg"
 visit: https://closer2u.github.io/vanilla_and_chocolate/categories.html#misc
 ---
+# Discoo
 
 Fall nicht gleich aus dem Bett, wenn du geblendet wirst von den strahlenden Kugeln unseres ... Weihnachtsbäumchens! 🎄🎄🎄 \
 
