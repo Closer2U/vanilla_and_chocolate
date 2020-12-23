@@ -1,9 +1,9 @@
 --- 
 title:  " Im Asteroidenfeld "
 metadate: "hide"
-categories: [ Misc ]
+categories: [ Misc, StoryTime ]
 image: "assets/images/asteroids.jpg"
-visit: https://closer2u.github.io/vanilla_and_chocolate/categories.html#misc
+visit: https://closer2u.github.io/vanilla_and_chocolate/categories.html#storytime
 ---
 
 Ok
