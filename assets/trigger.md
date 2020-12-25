@@ -4,5 +4,6 @@ Next trigger\
 Another trigger\
 Now\
 Newwwest\
-New\ 
-YetAnother
+New\
+YetAnother\
+New
