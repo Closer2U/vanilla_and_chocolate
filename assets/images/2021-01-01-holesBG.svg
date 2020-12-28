@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%">
+  <defs>
+    <pattern id="pattern" width="52" height="52" viewBox="0 0 40,40" patternUnits="userSpaceOnUse" patternTransform="rotate(135) ">
+      <rect id="pattern-background" width="400%" height="400%" fill="rgba(214, 158, 46,1)"/>
+      <path fill="rgba(60, 54, 107,1)" d="M0 9 h 40 v10 h-40z" filter="url(#filter1pattern)"/>
+      <path fill="rgba(60, 54, 107,1)" d="M9 0 v40 h10 v-40z" filter="url(#filter1pattern)"/>
+      <path fill="rgba(246, 224, 94,1)" d="M 20 12 a 8 8 0 0 0 0 16a 8 8 0 0 0 0 -16 z M -10 -10 h 60 v 60 h -60 z"/>
+    </pattern>
+    <filter id="filter1pattern">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.2">
+      </feGaussianBlur>
+    </filter>
+  </defs>
+  <rect fill="url(#pattern)" height="100%" width="100%"/>
+</svg>
