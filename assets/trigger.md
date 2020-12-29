@@ -9,4 +9,5 @@ YetAnother\
 New\
 Triiiigger\
 New\
-It won't stooop
+It won't stooop\
+Manual
