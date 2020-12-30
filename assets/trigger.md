@@ -10,4 +10,5 @@ New\
 Triiiigger\
 New\
 It won't stooop\
-Manual
+Manual\
+Next
