@@ -789,10 +789,7 @@ div::after {
     transform: translate3d(-12vw, 6vh, 0) rotate(165deg);
   }
 }
-View SCSS Code
 
-
-Resourc
 </style>
 
 <div class="purple"></div>
