@@ -3,7 +3,7 @@ title:  "Templatepost"
 metadate: "hide"
 categories: [ SVG ]
 published: "false"
-image: "/assets/images/magic-fire.png"
+image: "/assets/images/2021-01-dd-abc.ext"
 visit: https://closer2u.github.io/vanilla_and_chocolate/categories.html#svg
 ---
 
