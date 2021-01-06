@@ -1,5 +1,5 @@
 --- 
-title:  "Ach halt doch den 🦤!"
+title:  "Ach halt doch den 🦆 !"
 metadate: "hide"
 categories: [ Misc ]
 published: "false"
