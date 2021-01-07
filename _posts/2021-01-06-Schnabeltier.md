@@ -13,9 +13,6 @@ Und das Beste ist, es selbst weiß nicht einmal, dass es etwas Besonderes ist...
 Es ist sich dessen genauso wenig bewusst wie du, denn du bist auch jemand wundervoll Einzigartiges! 
 
 
-
-
-
 ***
 
 [Gibt's was Neues?](https://github.com/Closer2U)
