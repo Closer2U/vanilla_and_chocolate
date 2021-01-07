@@ -16,7 +16,7 @@ Hab einen wunderbar geordneten Tag 🙋🏻‍♀️ !
 <p align="center"> <sub> ───── 🄼🄸🄽🄸🄼🄰🄻🄸🅂🄼🅄🅂 ───── </sub></p>
 
 <details><summary> 🥷🏻 </summary>
- <p align="center">  <img height="200px" width="200px" alt="Grün hinter dem Herzen" src="https://cdn.statically.io/gh/Closer2U/vanilla_and_chocolate/master/assets/images/2021-01-07-beatingheart.svg">  </p>
+ <p align="center">  <img height="100px" width="100px" alt="Grün hinter dem Herzen" src="https://cdn.statically.io/gh/Closer2U/vanilla_and_chocolate/master/assets/images/2021-01-07-beatingheart.svg">  </p>
 </details>
 
 
