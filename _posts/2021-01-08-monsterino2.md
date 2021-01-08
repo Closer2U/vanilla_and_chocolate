@@ -3,7 +3,7 @@ title:  "Grumpissimo"
 metadate: "hide"
 categories: [ Humor, Misc ]
 published: "false"
-image: "/assets/images/2021-01-08-monsterino.png"
+image: "/assets/images/2021-01-08-monsterino2.png"
 visit: https://closer2u.github.io/vanilla_and_chocolate/categories.html#humor
 ---
 
