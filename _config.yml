@@ -1,0 +1,47 @@
+# Site
+name: 'Vanilla 🍦 and Chocolate 🍫    '
+description: 'Mehr 🕺 und 💃 für die Welt.'
+logo: 'assets/images/favicon-logo.png'
+favicon: 'assets/images/favicon-logo.png'
+url: 'https://Closer2U.github.io'
+baseurl: '/vanilla_and_chocolate'
+avatar: 'assets/images/Avatar.PNG'
+email: 'closer2u@firemail.de'
+timezone: Europe/Berlin
+
+include: ["_pages"]
+permalink: /:year/:month/:day/:title/
+future: false
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Pagination
+paginate: 20
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, Gemfile, Gemfile.lock, node_modules]
