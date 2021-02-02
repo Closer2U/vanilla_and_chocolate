@@ -2,7 +2,7 @@ name: GitHub Pages
 
 on:
   schedule:
-    - cron: '30 0 * * *'  # Once a day
+    - cron: '24 */24 * * *'  # Once a day
 
 jobs:
   deploy:
