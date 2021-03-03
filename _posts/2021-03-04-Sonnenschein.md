@@ -3,7 +3,7 @@ title:  "🎶 Guten Morgen, guten Morgen, guten Morgen... 🎶"
 metadate: "hide"
 categories: [ Songs ]
 published: "false"
-image: "/assets/images/2021-03-04-Sonnenschein.png"
+image: "/assets/images/2021-03-04-Sonnenschein2.png"
 visit: https://closer2u.github.io/vanilla_and_chocolate/categories.html#songs
 ---
 
