@@ -2,7 +2,7 @@ name: GitHub Pages gh
 
 on:
   schedule:
-    - cron: '24 */24 * * *'  # Once a day
+    - cron: '30 0 * * *'  # 00:30
 
 jobs:
   deploy:
