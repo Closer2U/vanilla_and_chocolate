@@ -22,8 +22,9 @@ to begin\
 isn't it\
 I get a little bit bigger\
 But then\
-I admit\
+I admit
 
+15.03.21 testing trigger  "once a day"
 
 
 '24 */24 * * *'
